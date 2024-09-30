@@ -4,37 +4,37 @@
 
 @font-face {
     font-family: "SFpro";
-    src: url(/fonts/SFProDisplay-Bold.woff);
+    src: url(./fonts/SFProDisplay-Bold.woff);
     font-weight: 700;
 }
 
 @font-face {
     font-family: "SFpro";
-    src: url(/fonts/SFProDisplay-Heavy.woff);
+    src: url(./fonts/SFProDisplay-Heavy.woff);
     font-weight: 900;
 }
 
 @font-face {
     font-family: "SFpro";
-    src: url(/fonts/SFProDisplay-Regular.woff);
+    src: url(./fonts/SFProDisplay-Regular.woff);
     font-weight: 400;
 }
 
 @font-face {
     font-family: "SFpro";
-    src: url(/fonts/SFProDisplay-Bold.woff);
+    src: url(./fonts/SFProDisplay-Bold.woff);
     font-weight: 700;
 }
 
 @font-face {
     font-family: "SFpro";
-    src: url(/fonts/SFProDisplay-Medium.woff);
+    src: url(./fonts/SFProDisplay-Medium.woff);
     font-weight: 500;
 }
 
 @font-face {
     font-family: "SFpro";
-    src: url(/fonts/SFProDisplay-Semibold.woff);
+    src: url(./fonts/SFProDisplay-Semibold.woff);
     font-weight: 600;
 }
 
@@ -119,7 +119,7 @@ header {
 }
 
 .main__page {
-    background: url(/Images/Background.jpg) center/cover no-repeat;
+    background: url(./Images/Background.jpg) center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: flex-end;
@@ -254,7 +254,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/Images//2\ 1.jpg);
+    background-image: url(./Images//2\ 1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -300,7 +300,7 @@ header {
 }
 
 .block__future {
-    background: url(/Images/Background2.jpg) center/cover no-repeat;
+    background: url(./Images/Background2.jpg) center/cover no-repeat;
     height: 100vh;
     display: flex;
     justify-content: space-between;
@@ -431,7 +431,7 @@ header {
     justify-content: center;
     align-items: center;
     column-gap: 432px;
-    background: url(/Images/Mask\ Group.jpg) center center / cover no-repeat;
+    background: url(./Images/Mask\ Group.jpg) center center / cover no-repeat;
     border-radius: 8px;
 }
 
